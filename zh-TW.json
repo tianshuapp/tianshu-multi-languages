@@ -1,0 +1,31 @@
+{
+  "label": {
+    "Sign In": "登录",
+    "Help": "帮助",
+    "Privacy": "隐私",
+    "Terms": "服务",
+    "Verify Code": "验证码",
+    "Area": "区号",
+    "Real Name": "真实姓名",
+    "Email": "邮箱",
+    "Phone": "手机号",
+    "Password": "密码",
+    "New Password": "新密码"
+  },
+  "auth": {
+    "label": {
+      "Welcome": "欢迎",
+      "Captcha": "验证码",
+      "Sign in with phone": "手机登录",
+      "Sign in with email": "邮箱登录",
+      "Create account": "创建账号",
+      "Back": "返回",
+      "Next": "下一步",
+      "Forgot?": "忘记？",
+      "Forgot password?": "忘记密码？",
+      "Forgot email?": "忘记邮箱？",
+      "Forgot phone?": "忘记手机号？",
+      "Confirm Password": "确认密码"
+    }
+  }
+}

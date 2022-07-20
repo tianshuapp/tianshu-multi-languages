@@ -1,0 +1,34 @@
+{
+  "label": {
+    "Sign In": "Sign In",
+    "Help": "Help",
+    "Privacy": "Privacy",
+    "Terms": "Terms",
+    "Verify Code": "Verify Code",
+    "Area": "Area",
+    "Real Name": "Real Name",
+    "Email": "Email",
+    "Phone": "Phone",
+    "Password": "Password",
+    "New Password": "New Password"
+  },
+  "auth": {
+    "label": {
+      "Welcome": "Welcome",
+      "Captcha": "Captcha",
+      "Sign in with phone": "Sign in with phone",
+      "Sign in with email": "Sign in with email",
+      "Create account": "Create account",
+      "Back": "Back",
+      "Next": "Next",
+      "Forgot?": "Forgot?",
+      "Forgot password?": "Forgot password?",
+      "Forgot email?": "Forgot email?",
+      "Forgot phone?": "Forgot phone?",
+      "Confirm Password": "Confirm Password"
+    },
+    "message": {
+      "Account or password is wrong": "Account or password is wrong"
+    }
+  }
+}

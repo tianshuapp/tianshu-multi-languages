@@ -1,0 +1,31 @@
+{
+  "label": {
+    "Sign In": "ログイン",
+    "Help": "ヘルプ",
+    "Privacy": "プライバシー",
+    "Terms": "サービス",
+    "Verify Code": "認証コード",
+    "Area": "エリア",
+    "Real Name": "Real Name",
+    "Email": "Eメール",
+    "Phone": "電話番号",
+    "Password": "パスワード",
+    "New Password": "新しいパスワード"
+  },
+  "auth": {
+    "label": {
+      "Welcome": "歓迎",
+      "Captcha": "キャプチャ",
+      "Sign in with phone": "電話番号でログイン",
+      "Sign in with email": "電子メールでログイン",
+      "Create account": "アカウントの作成",
+      "Back": "リターンマッチ",
+      "Next": "次のステップ",
+      "Forgot?": "Forgot?",
+      "Forgot password?": "Forgot password?",
+      "Forgot email?": "Forgot email?",
+      "Forgot phone?": "Forgot phone?",
+      "Confirm Password": "Confirm Password"
+    }
+  }
+}

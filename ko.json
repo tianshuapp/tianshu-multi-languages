@@ -1,0 +1,31 @@
+{
+  "label": {
+    "Sign In": "로그인",
+    "Help": "도움말",
+    "Privacy": "개인정보처리방침",
+    "Terms": "약관",
+    "Verify Code": "Verify Code",
+    "Area": "지역",
+    "Real Name": "이름",
+    "Email": "이메일",
+    "Phone": "휴대전화",
+    "Password": "비밀번호",
+    "New Password": "새 암호"
+  },
+  "auth": {
+    "label": {
+      "Welcome": "환영",
+      "Captcha": "인증 코드",
+      "Sign in with phone": "휴대폰 번호로 로그인",
+      "Sign in with email": "메일박스로 로그인",
+      "Create account": "계정 만들기",
+      "Back": "되돌아오다",
+      "Next": "다음",
+      "Forgot?": "Forgot?",
+      "Forgot password?": "비밀번호 찾기",
+      "Forgot email?": "이메일을 잊으셨나요?",
+      "Forgot phone?": "Forgot phone?",
+      "Confirm Password": "암호 확인"
+    }
+  }
+}
